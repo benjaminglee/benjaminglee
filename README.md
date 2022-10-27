@@ -1,4 +1,4 @@
-Hi, My name is Benjamin Lee!
+Hi, my name is Benjamin Lee!
 ==============================
 
 Fullstack Software Engineer
