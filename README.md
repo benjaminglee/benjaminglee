@@ -9,7 +9,7 @@ I've recently switched careers to fullstack web development. I have a passion fo
 * 🌍  I'm based in Chicago
 * ✉️  You can contact me at [benjaminlee0727@gmail.com](mailto:benjaminlee0727@gmail.com)
 * 🚀  I'm currently working on [BluePrint](http://fsa-blueprint.herokuapp.com/)
-* 🧠  I'm learning Typescript, AWS, MongoDB, and Firebase
+* 🧠  I'm learning Typescript, AWS, and Java
 
 ### Skills
 
