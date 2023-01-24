@@ -4,11 +4,11 @@ Hi, my name is Benjamin Lee!
 Fullstack Software Engineer
 ---------------------------
 
-I'm currently working as a Fullstack engineer at Text2Order, a startup based in Los Angeles.
+I'm currently working as a fullstack engineer at Text2Order, a startup based in Los Angeles.
 
 * 🌍  I'm based in Chicago
 * ✉️  You can contact me at [benjaminlee0727@gmail.com](mailto:benjaminlee0727@gmail.com)
-* 🚀  I'm working on a side project, [BluePrint](http://fsa-blueprint.herokuapp.com/)
+* 🚀  I'm working on a side project called [BluePrint](http://fsa-blueprint.herokuapp.com/)
 * 🧠  I'm learning Typescript, AWS, and Java
 
 ### Skills
