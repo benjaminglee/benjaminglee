@@ -4,7 +4,7 @@ Hi, my name is Benjamin Lee!
 Fullstack Software Engineer
 ---------------------------
 
-I've recently switched careers to fullstack web development. I have a passion for collaborative work and problem solving--I'm excited to use my skills to be a part of awesome teams and projects moving forward!
+Fullstack engineer working remotely for Los Angeles start up Text2Order.
 
 * 🌍  I'm based in Chicago
 * ✉️  You can contact me at [benjaminlee0727@gmail.com](mailto:benjaminlee0727@gmail.com)
