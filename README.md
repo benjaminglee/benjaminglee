@@ -1,10 +1,10 @@
 Hi, my name is Benjamin Lee!
 ==============================
 
-Fullstack Software Engineer
+Software Engineer
 ---------------------------
 
-I'm currently working as a fullstack engineer at Text2Order, a startup based in Los Angeles.
+I'm currently working as a software engineer at Text2Order, a startup based in Los Angeles.
 
 * 🌍  I'm based in Chicago
 * ✉️  You can contact me at [benjaminlee0727@gmail.com](mailto:benjaminlee0727@gmail.com)
